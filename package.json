@@ -2,11 +2,11 @@
   "name": "@lyubomyr.rudko/test-package",
   "version": "1.0.1",
   "description": "",
-  "main": "lib",
+  "main": "index.js",
   "types": "lib",
   "scripts": {
     "build": "tsc",
-    "watch": "tsc -w"
+    "start": "tsc -w"
   },
   "keywords": [],
   "author": "",
